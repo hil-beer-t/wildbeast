@@ -1,4 +1,4 @@
-# Wildbeast
+# [Wildbeast](https://hil-beer-t.github.io/wildbeast/)
 
 Simple pure HTML/CSS static page.
 
